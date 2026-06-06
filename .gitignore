@@ -1,0 +1,6 @@
+.commandcode/
+__pycache__/
+*.pyc
+*.pyo
+.env
+tests/.test-run-report.json
